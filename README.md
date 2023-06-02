@@ -34,6 +34,7 @@ It has 10 classes of fashion and gray-scaled pictures of fashion.
 
 ### 3D:
 
-![image](https://github.com/aiko929/ML-dim-reduction/assets/26790700/65ca1702-978c-4c13-b278-c8456972770a)
+![image](https://github.com/aiko929/ML-dim-reduction/assets/26790700/2ed3fd3b-6b85-43e0-84c1-09d07c0c9376)
+
 
 
